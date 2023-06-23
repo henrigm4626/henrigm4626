@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Henrique Marques' GitHub stats](https://github-readme-stats.vercel.app/api?username=henrigm4626&?count_private=true)](https://github.com/henrigm4626/github-readme-stats)
+[![Henrique Marques' GitHub stats](https://github-readme-stats.vercel.app/api?username=henrigm4626&?count_private=true&show_icons=true)](https://github.com/henrigm4626/github-readme-stats)
