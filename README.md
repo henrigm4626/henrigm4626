@@ -19,5 +19,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrigm4626&?count_private=true&show_icons=true&theme=github_dark">
 </a>
 <!--[![Henrique Marques' GitHub stats](https://github-readme-stats.vercel.app/api?username=henrigm4626&?count_private=true&show_icons=true&theme=github_dark)](https://github.com/henrigm4626/github-readme-stats)
+-->
+<a href="https://github.com/henrigm4626/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrigm4626&layout=compact&?count_private=true&theme=github_dark">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrigm4626&layout=compact&?count_private=true&theme=github_dark)](https://github.com/henrigm4626/github-readme-stats)
+  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrigm4626&layout=compact&?count_private=true&theme=github_dark)](https://github.com/henrigm4626/github-readme-stats)
+-->
