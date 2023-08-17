@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### My Github Stats
 <div align="center" style="display: flex; flex-direction: row;">
   <a href="https://github.com/henrigm4626#my-github-stats">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=henrigm4626&?count_private=true&show_icons=true&theme=github_dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrigm4626&?count_private=true&show_icons=true&theme=github_dark">
   </a>
   <a href="https://github.com/henrigm4626#my-github-stats">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henrigm4626&layout=compact&?count_private=true&theme=github_dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrigm4626&layout=compact&?count_private=true&theme=github_dark">
   </a>
 </div>
